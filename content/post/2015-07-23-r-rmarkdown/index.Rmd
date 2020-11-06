@@ -1,0 +1,13 @@
+---
+title: "Among Us Comics and Books"
+author: "Daniel Sivyakov"
+date: 2015-07-23T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Hello, I am Daniel. I love the video game Among Us
